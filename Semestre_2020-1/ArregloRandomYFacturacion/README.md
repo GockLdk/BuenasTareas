@@ -1,5 +1,4 @@
 # Especificaciones de la Tarea
----
 ### Arreglo Random
 Programa que le usuario decide el tamanio del arreglo, para luego llenarlo automaticamente de numeros aleatorios entre el 0 y 9, para finalmente mostrar el arreglo y la sumatoria de sus elementos. 
 

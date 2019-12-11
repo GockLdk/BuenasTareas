@@ -1,5 +1,4 @@
 # Buenas Tareas
----
 ## Repositorio para ir almacenando las tareas escolares que me han encargado.
 
 ### Semestre 2020-1
