@@ -21,7 +21,7 @@ Para la practica 12 se pidio:
 
 **Notas**:
 
-- Los reporte de cada practica, de lo que se modifico esta en el archivo Reporte.md.
+- Los reporte de cada practica, de lo que se modifico esta en el archivo [Reporte](Reporte.md).
 - Para la compilacion y ejecucion en Linux desde terminal es:
     + javac ./unam/fi/mpoo/aplicacion/Libreria.java 
     + java -cp /home/gock/Escritorio/BuenasTareas/MPOO_Practica10/src/unam.fi.mpoo.aplicacion.Libreria
