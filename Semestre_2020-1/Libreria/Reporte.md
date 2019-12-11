@@ -1,6 +1,7 @@
 # Reportes de la Practicas 10 y 12
 ### Practica 10
-####EJERCICIO 1
+#### EJERCICIO 1
+
 **Explicacion a grandes rasgos, en las clases mas complejas hya comentarios en el codigo para mas detalles.**
 
 Este programa tiene 4 carpetas "almacen,aplicacion,controles,eventos" donde cada carpeta contiene:
@@ -121,7 +122,7 @@ En resumen se hicieron otro constructor y otro metodo generarClaseFile para que 
 ---
 ### Practica 12
 #### EJERCICIO 1
-** Explicacion a grandes rasgos, en las clases mas complejas hya comentarios en el codigo para mas detalles.**
+**Explicacion a grandes rasgos, en las clases mas complejas hya comentarios en el codigo para mas detalles.**
 
 Este programa tiene 4 carpetas "almacen,aplicacion,controles,eventos" donde cada carpeta contiene:
 
