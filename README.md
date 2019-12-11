@@ -9,7 +9,7 @@
 * Arreglo Random y Facturacion de Libros. (J)
 * Busca Conejos. (J)
 * Farmacia. (JG)
-* Libreria Practica 10 y 12. (JG)
+* Libreria. (JG)
 * Materiales. (C)
 * Simulador de una Cola de Banco. (JG)
 * Gatos y Ratones. (P)
@@ -30,4 +30,4 @@
 - C++ : Lenguje de Programacion C++
 - E : Excel
 
-
+Todos los codigos pueden ser mejorables u optimizados.
