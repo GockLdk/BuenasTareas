@@ -37,17 +37,17 @@ Solo que es un programa esta a medias ya que aunque existe el codigo para regist
 #### EJERCICIO 2
 En Java hay una clase en el paquete Swing la cual se llama ButtonGroup la cual es la encargada de juntar RadioButton en un grupo o lista y por defecto si dentro del grupo esta seleccionado X RadioButton los demas se deselecciona.
 Codigo agregado a Libreria.java para que solo se seleccion un RadioButton a la vez.
-
+```java
     // GRUPO DE RADIOBUTTON "EJERCICIO 2"
     private ButtonGroup grupoRadioButton;
     // CREANDO GRUPO DE RADIOBUTTON Y AGREGADO AL GRUPO LOS RADIO BUTTON  "EJERCICIO 2"
     this.grupoRadioButton = new ButtonGroup();
     this.grupoRadioButton.add(tipoRegistroTxt);
     this.grupoRadioButton.add(tipoRegistroAudio);   
-
+```
 Para poder mostrar o no un componente hay un metodo llamado setVisible(); el cual recibe un booleano, si es true se muestra el componente y si es false lo oculta.
 Codigo agregado a ManejadorEventos.java para ocultar y mostrar las lista dependiendo del Botton seleccionado.
-
+```java
     // MOSTRANDO LA LISTA DE TEXTO Y OCULTANDO LA DE AUDIO  "EJERCICIO 2"
     this.lib.getTipoTxtLD().setVisible(true);
     this.lib.getTipoAudioLD().setVisible(false);    
@@ -57,11 +57,11 @@ Codigo agregado a ManejadorEventos.java para ocultar y mostrar las lista dependi
     this.lib.getTipoAudioLD().setVisible(true); 
 
 **Nota**: El codigo agregado al programa de este ejercicio esta comentado con Mayusculas y tiene la palabra "EJERCICIO 2"
-
+```
 ---    
 #### EJERCICIO 3
 Codigo agregado a Administrador.java para que guarde libros de texto, audiolibros e imagenes en archivos de texto diferentes.
-    
+```java     
     public final static String NOMBRE_ARCHIVO="Almacen.txt"; // ELIMINAR SI NO SE OCUPA EL PRIMER CONSTRUCTOR "EJERCICIO 3"
     // ATRIBUTOS STATIC AGREGADOS "EJERCICIO 3"
     public final static String NOMBRE_ARCHIVO_TEXTO="AlmacenTEXTO.txt";
@@ -118,7 +118,7 @@ Codigo agregado a Libreria.java para probar el constructor
 **Nota**: El codigo agregado al programa de este ejercicio esta comentado con Mayusculas y tiene la palabra "EJERCICIO 3"
 
 En resumen se hicieron otro constructor y otro metodo generarClaseFile para que recibieran un entero que significa el tipo de libro y dependiendo del libro se guardara en el archivo AlmacenTEXTO.txt (si es un libro de texto "tipo 1"), AlmacenAUDIO.txt (si es audiolibro "tipo 2") o AlmacenIMG.txt (si es una imagen "tipo 3"). Y se comprueba por que al imprimir la rutaCompleta puedes ver en que archivo lo guarda.
-
+```
 ---
 ### Practica 12
 #### EJERCICIO 1

@@ -15,7 +15,6 @@
 * Gatos y Ratones. (P)
 * Registro de Alumnos. (J)
 * JSON-PYTHON. (P)
-* Inventario Automatico Entradas y Salidas. (E)
 * Distancia entre Digitos y Solucion de una Ecuacion de segundo orden. (C++)
 * Matriz Triangular o No Triangular. (C++)
 * Serpientes y Escaleras. (JG)
@@ -28,6 +27,5 @@
 - JG : Java con GUI
 - P : Python
 - C++ : Lenguje de Programacion C++
-- E : Excel
 
-Todos los codigos pueden ser mejorables u optimizados.
+Todos los codigos pueden ser mejorados u optimizados.
