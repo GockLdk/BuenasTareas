@@ -3,7 +3,7 @@
 Se pidio el juego de Serpientes y Escaleras con GUI, donde los puntos extraordinarios a tratar fueron:
 
 - Maximo de dos jugadores.
-- El uso de una matriz de booleanos que representa el tablero.
+- El uso de una matriz de 5x10 de booleanos que representa el tablero.
 - Minimo 3 serpientes y 3 escaleras.
 - Que se muestra una "animacion" a la hora de lanzar los dados.
 - Contar con un boton para reiniciar el juego en cualquier momento.
