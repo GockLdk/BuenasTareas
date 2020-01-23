@@ -1,6 +1,9 @@
 #### [Regresar](../../README.md)
 # Especficaciones de la Tarea
 ### Video Club
+- [Version 1.0](VideoClub)
+- [Version 2.0](VideoClubV.2)
+
 El proyecto consiste en realizar un sistema para el Alquiler de ejemplares (películas,documentales, fábulas) de un Video Club, que permita:
 
 - Mostrar al cliente un detalle del alquiler realizado con el respectivo monto a pagar.
@@ -63,8 +66,12 @@ efectúa diferentes cobros de acuerdo con la categoría del ejemplar:
 6. Pantalla de Devoluciones: Por medio del código del ejemplar, se debe realizar la devolución de este.
     - El usuario debe digitar el código del ejemplar y la cantidad a devolver, entonces el sistema incrementará la existencia de ejemplares del código correspondiente.
 
-**Nota**: Este programa fue hecho con Java 11 y en Netbeans 11.
+**Notas**: 
 
+- Este programa fue hecho con Java 11 y en Netbeans 11.
+- Hay dos versiones del programa:
+    + La primera fue pensada para que cualquier Usuario se metiera y dependiendo si es Admin o Cliente, les aparecia la ventana correspondiente.
+    + Como el cliente querria que todo lo manejara el Admin, entonces en la version 2 solo se pueden loggear los Admin y les pedira el nombre del cliente que va a rentar, y si esta registrado les aparecera las dos ventanas para poder permitir el alquiler, devoluciones y el panel del Administrador. 
 ---
 ## Algunas Screenshots de su funcionamiento
 ![S1](ScreenShots/1.JPG)
