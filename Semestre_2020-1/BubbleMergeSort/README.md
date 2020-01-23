@@ -1,3 +1,4 @@
+#### [Regresar](../../README.md)
 # Especificaciones de la Tarea
 ### Comparacion de BubbleSort (Optimizado) y MergeSort
 Se deben programar los algoritmos de ordenamiento BubbleSort (Optimizado) y MergeSort para obtener los tiempos de ejecucion para las listas de enteros de diferentes tamanios (n):
@@ -19,6 +20,7 @@ Para obtener el promedio y generar una conclusion al comparar dichos algoritmos.
 - Se tiene tanto la tabla de los tiempos en PDF y Excel.
 - En la carpeta Graficas, se tienen las graficas de comparacion de tiempos entre los algoritmos para cada caso y cada tamanio, ademas de contener el codigo en Python para graficar los datos.
 
+#### [Codigo Fuente](BubbleSortOpt.py)
 
 ---
 ## Conclusion General

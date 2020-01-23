@@ -1,3 +1,4 @@
+#### [Regresar](../../README.md)
 # Especificaciones de la Tarea
 ### Matriz Triangular o No Triangular
 El programa verifica si las matrices cuadradas ingresadas son trinagulares o no, para que una matriz sea triangular los numeros arriba o abajo de la diagonal deben ser ceros. La logica del programa es la siguiente:

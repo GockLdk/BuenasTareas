@@ -1,3 +1,4 @@
+#### [Regresar](../../README.md)
 # Especificaciones de la Tarea
 ### Distancia entre Digitos
 Para este programa se solicito que el usuario de dos numeros de la misma cantidad de digitos, donde para calcular la distancia entre ellos, es mediante una sumatoria de los valores absolutos de la diferencia entre cada digitos de los dos numeros. Ejemplo:
@@ -15,8 +16,8 @@ En este programa el usuario debe proporcionar los valores de a,b y c de una ecua
 
 ---
 ## Screenshot del funcionamiento de Distancia de Digitos
-![S4](Screenshots/4.png)
+![S7](Screenshots/7.png)
 
 ---
 ## Screenshot del funcionamiento de Solucion de una Ecuacion de segundo orden
-![S7](Screenshots/7.png)
+![S4](Screenshots/4.png)

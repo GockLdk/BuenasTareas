@@ -1,3 +1,4 @@
+#### [Regresar](../../README.md)
 # Especificaciones de la Tarea
 ### Registro de Alumnos
 Para una universidad se pidio un sistema donde se pueda registrar y consultar sus alumnos inscritos en ella. Donde la informacion de cada alumno es la siguiente:
