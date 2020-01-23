@@ -307,7 +307,7 @@ def main():
 	global tablero, tableroAux ,n_ratones , n_gatos , n , ciclos
 
 	print("***Gatos y Ratones***\nFavor de teclear los datos solicitados")
-	n = int(input("Tamanio del tablero nxn (RECOMENDABLEMNTE 10 O MAS): ")) # Pide el tamanio del tablero
+	n = int(input("Tamanio del tablero nxn (RECOMENDABLEMENTE 10 O MAS): ")) # Pide el tamanio del tablero
 
 	# Crea los dos tableros inciializados con X
 	tablero = [["X"] * n for i in range(n)]

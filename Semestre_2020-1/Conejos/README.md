@@ -8,5 +8,21 @@ Se pueden jugar tantas partidas desea el usuario, y al final muestra el total de
 
 **Nota**:
 
-Se agrega un [reporte](Reporte) donde explica mas a detalle el funcionamiento del programa.
+Se agrega un [reporte](Reporte.pdf) donde explica mas a detalle el funcionamiento del programa.
+
+---
+## Algunas Screenshots de su funcionamiento
+![S1](ScreenShots/1.png)
+
+---
+![S2](ScreenShots/2.png)
+
+---
+![S3](ScreenShots/3.png)
+
+---
+![S4](ScreenShots/4.png)
+
+---
+![S5](ScreenShots/5.png)
 

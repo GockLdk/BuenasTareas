@@ -12,4 +12,17 @@ Se pidio un tablero (matriz) donde cada casilla podia contener un raton o gato, 
     + Ratones:
         * Si lo rodea al menos un gato, muere el raton.
 
+---
+## Algunas Screenshots de su funcionamiento
+![S1](ScreenShots/1.png)
+
+---
+![S2](ScreenShots/2.png)
+
+---
+![S3](ScreenShots/3.png)
+
+---
+![S4](ScreenShots/4.png)
+
 

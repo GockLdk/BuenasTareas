@@ -14,3 +14,20 @@ Se pidio el juego de Serpientes y Escaleras con GUI, donde los puntos extraordin
 
 - Este juego aun se puede mejorar muchisimo, ya que por mala organizacion del cliente y cambiar fechas de ultimo momento, se trabajo contra reloj para entregar un codigo mas funcional que optimo.
 - Se uso Java 11 y Netbeans 11.
+
+---
+## Algunas Screenshots de su funcionamiento
+![S1](ScreenShots/1.JPG)
+
+---
+![S2](ScreenShots/2.JPG) 
+
+---
+![S3](ScreenShots/3.JPG)
+
+---
+![S4](ScreenShots/4.JPG)  
+
+---
+![S5](ScreenShots/5.JPG) 
+

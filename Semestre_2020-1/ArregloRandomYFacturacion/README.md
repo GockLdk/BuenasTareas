@@ -19,3 +19,12 @@ No tiene un menu ya que se pide que se introduzca 5 facturas y se muestre:
 - Cantidad de litros vendidas del articulo 1.
 - Facturas emitidas que emitieron mas de $1,500.00 MXN.
  
+---
+## Screenshot del funcionamiento del Arreglo Random
+![S1](ScreenShots/1.png)
+
+---
+## Screenshots del funcionamiento de las Facturas
+![S2](ScreenShots/2.png)
+---
+![S3](ScreenShots/3.png)
