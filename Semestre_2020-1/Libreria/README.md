@@ -1,6 +1,6 @@
 #### [Regresar](../../README.md)
 # Especificaciones de la Tarea
-### Libreria
+### [Libreria](./src)
 ---
 Una aclaracion antes de mencionar las especificaciones, es que este codigo es el resultado de la realizacion de las practicas 10 y 12 de un profesor que imparte la asignatura Programacion Orientada a Objetos (POO), donde cada una de sus practicas consiste en ir agregando funcionalidades a un codigo "principal" el cual es un sistema de registro y consulta de libros o audiolibros de una libreria.
 **Cabe destacar que el profesor proporciono el codigo de la libreria por lo cual el unico codigo original de mi persona es el que se solicito en cada practica.**

@@ -1,6 +1,6 @@
 #### [Regresar](../../README.md)
 # Especficaciones de la Tarea
-### Simulador de una Cola de Banco
+### [Simulador de una Cola de Banco](./ColasDeEspera)
 Lo solicitado en este simulador de una cola de banco fue, que en un banco con una sola fila para la unica caja para atender a clientes se haga lo siguiente segun un numero aleatorio entre 1 y 6:
 
 - Si el numero esta en el rango del 4 al 6: Llega un cliente al banco y se forma en la cola.

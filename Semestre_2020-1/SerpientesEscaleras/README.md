@@ -1,6 +1,6 @@
 #### [Regresar](../../README.md)
 # Especificaciones de la Tarea
-### Serpientes y Escaleras
+### [Serpientes y Escaleras](./game)
 Se pidio el juego de Serpientes y Escaleras con GUI, donde los puntos extraordinarios a tratar fueron:
 
 - Maximo de dos jugadores.

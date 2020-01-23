@@ -1,6 +1,6 @@
 #### [Regresar](../../README.md)
 # Especificaciones de la Tarea
-### Farmacia
+### [Farmacia](./Farmacia)
 Se pide un un sistema de una farmacia donde pueda registrar tanto clientes como productos (medicamentos) y que a su vez dado esos registros, un cliente registrado pueda comprar tanto productos como quiera mientras haya existencia, para al final de la compra se le pueda dar un resumen detallado de todo lo que adquirio.
 
 **Notas**: 

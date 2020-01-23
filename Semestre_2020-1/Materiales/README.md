@@ -1,6 +1,6 @@
 #### [Regresar](../../README.md)
 # Especificaciones de la Tarea
-### Materiales
+### [Materiales](./Codigo Fuente)
 Registro de materiales plasticos y metales, donde para cada uno se puede tanto registrar como consultar. La infomacion de los materiales que se necesitan para registrar y que se muestran en la consulta son:
 
 - Metales:
@@ -19,7 +19,7 @@ Registro de materiales plasticos y metales, donde para cada uno se puede tanto r
 **Notas**: 
 
 - Para cada material se hizo su propia biblioteca con sus respectivas funciones.
-- La carpeta Materiales contiene el programa en un proyecto de DevC.
+- La carpeta [Materiales](./Materiales) contiene el programa en un proyecto de DevC.
 
 ---
 ## Algunas Screenshots de su funcionamiento

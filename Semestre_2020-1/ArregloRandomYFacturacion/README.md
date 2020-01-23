@@ -1,9 +1,9 @@
 #### [Regresar](../../README.md)
 # Especificaciones de la Tarea
-### Arreglo Random
+### [Arreglo Random](ArregloRandom.java)
 Programa que le usuario decide el tamanio del arreglo, para luego llenarlo automaticamente de numeros aleatorios entre el 0 y 9, para finalmente mostrar el arreglo y la sumatoria de sus elementos. 
 
-### Facturas
+### [Facturas](Facturas.java)
 Una empresa que se dedica a la venta de desinfectantes necesita un programa para administrar las facturas. 
 Cada factura contiene los siguientes datos:
 

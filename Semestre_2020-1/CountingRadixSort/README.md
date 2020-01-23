@@ -1,6 +1,6 @@
 #### [Regresar](../../README.md)
 # Especificaciones de la Tarea
-### Comparacion de CountingSort y RadixSort
+### Comparacion de [CountingSort](Counting.py) y [RadixSort](Radix.py)
 Se deben programar los algoritmos de ordenamiento CountingSort y RadixSort para obtener los tiempos de ejecucion para las listas aleatorias de enteros entre el 0 - 1,000,000 (k) de diferentes tamanios (n):
 
 - 10

@@ -1,3 +1,6 @@
+#### [Menu](../../README.md)
+#### [Regresar](README.md)
+
 # Reportes de la Practicas 10 y 12
 ### Practica 10
 #### EJERCICIO 1

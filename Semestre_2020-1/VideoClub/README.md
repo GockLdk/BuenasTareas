@@ -71,7 +71,7 @@ efectúa diferentes cobros de acuerdo con la categoría del ejemplar:
 - Este programa fue hecho con Java 11 y en Netbeans 11.
 - Hay dos versiones del programa:
     + La primera fue pensada para que cualquier Usuario se metiera y dependiendo si es Admin o Cliente, les aparecia la ventana correspondiente.
-    + Como el cliente querria que todo lo manejara el Admin, entonces en la version 2 solo se pueden loggear los Admin y les pedira el nombre del cliente que va a rentar, y si esta registrado les aparecera las dos ventanas para poder permitir el alquiler, devoluciones y el panel del Administrador. 
+    + Como el cliente querria que todo lo manejara el Admin, entonces en la version 2 solo se pueden loggear los Admin y les pedira el nombre del Cliente que va a rentar, y si esta registrado les aparecera las dos ventanas para poder permitir el alquiler, devoluciones y el panel del Administrador. 
 ---
 ## Algunas Screenshots de su funcionamiento
 ![S1](ScreenShots/1.JPG)

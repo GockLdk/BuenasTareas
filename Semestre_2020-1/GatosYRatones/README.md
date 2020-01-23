@@ -1,6 +1,6 @@
 #### [Regresar](../../README.md)
 # Especificaciones de la tarea
-### Gatos y Ratones
+### [Gatos y Ratones](GatosyRatones.py)
 Se pidio un tablero (matriz) donde cada casilla podia contener un raton o gato, donde la logica del programa es la siguiente:
 
 - Se le pide al usuario el tamanio de su tablero (nxn), el numero de gatos y ratones que habra en el tablero, y el numero de ciclos que se repetira el programa.
