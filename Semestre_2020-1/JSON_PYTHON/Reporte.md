@@ -1,3 +1,5 @@
+#### [Menu](../../README.md)
+#### [Regresar](README.md)
 # Reporte de la Tarea JSON-PYTHON
 
 **Consideraciones para que los programas lean el archivo debe cumplir con lo siguiente:**
